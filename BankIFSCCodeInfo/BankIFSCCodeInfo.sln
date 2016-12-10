@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankIFSCCodeInfo.UI", "BankIFSCCodeInfo.UI\BankIFSCCodeInfo.UI.csproj", "{939059E6-BE59-4BDD-B464-980068C818B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankIFSCCodeInfo.UI.Tests", "BankIFSCCodeInfo.UI.Tests\BankIFSCCodeInfo.UI.Tests.csproj", "{958AF21A-9C5F-4A1A-BA0B-0C29AE870719}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{939059E6-BE59-4BDD-B464-980068C818B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{939059E6-BE59-4BDD-B464-980068C818B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{939059E6-BE59-4BDD-B464-980068C818B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{939059E6-BE59-4BDD-B464-980068C818B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{958AF21A-9C5F-4A1A-BA0B-0C29AE870719}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{958AF21A-9C5F-4A1A-BA0B-0C29AE870719}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{958AF21A-9C5F-4A1A-BA0B-0C29AE870719}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{958AF21A-9C5F-4A1A-BA0B-0C29AE870719}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
